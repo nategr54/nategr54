@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nategr54
+- 👀 I’m interested in Web development, game development, new challenges 
+- 🌱 I’m currently learning JS 
+- 💞️ I’m looking to collaborate on projects using JS frameworks    
+- 📫 How to reach me https://twitter.com/nategr54
